@@ -1,6 +1,6 @@
 - 👋 Hi, I’m gajraj singh rathore
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning javaScript
 
 
 <!---
